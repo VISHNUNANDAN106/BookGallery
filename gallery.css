@@ -1,0 +1,62 @@
+body {
+    background-image: url("./pic14.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div {
+    width: 30%;
+    height: 600px;
+    background-color: rgba(15, 1, 12, 0.708);
+    border: 6px white solid;
+
+    float: left;
+    color: rgb(rgba(11, 4, 11, 0.847));
+    padding: 43px;
+    font-size: medium white solid;
+    font-style: italic;
+
+
+
+
+
+
+
+
+
+
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+
+img {
+    width: 90%;
+    height: 350px;
+}
+
+h3 {
+    color: rgb(179, 7, 16);
+    font-size: x-large;
+    text-align: center;
+}
+p{
+    font-size: larger;
+    color: white;
+    font-style: italic;
+}
+
+
+
+div :hover {
+    background-color: rgba(240, 248, 255, 0.223);
+    color: rgb(22, 18, 138);
+    border: orangered 2px solid;
+}
